@@ -1,0 +1,14 @@
+{
+  "userdetails": [
+    {
+      "firstname": "Ram",
+      "lastname": "Surat",
+      "age": "22",
+      "gender": "male",
+      "maritalstatus": "single",
+      "email": "suraj@gmail.com",
+      "password": "85664",
+      "id": 1
+    }
+  ]
+}
